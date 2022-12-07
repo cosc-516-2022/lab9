@@ -60,6 +60,6 @@ Total Marks: 20
 Up to +2 bonus marks for demonstrating some other unique feature of InfluxDB.
 
 # Submission
-The lab is marked immediately by the professor by showing the output of the JUnit tests and by a quick code review. Otherwise, submit the URL of your GitHub repository on Canvas. Make sure to commit and push your updates to GitHub
+The lab is marked immediately by the professor by showing the output of the Unit tests and by a quick code review. Otherwise, submit the URL of your GitHub repository on Canvas. Make sure to commit and push your updates to GitHub
 
 
